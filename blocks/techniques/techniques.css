@@ -1,0 +1,8 @@
+.techniques {
+ /* border: 1px solid seagreen;*/
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  padding-top: 100px;
+  margin: 0px auto;
+}
